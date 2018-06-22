@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploTestAnalytics", "ExemploTestAnalytics\ExemploTestAnalytics.csproj", "{8A0310D0-0509-4B58-8D40-DD3CED8DE099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExAzureSearch", "ExAzureSearch\ExAzureSearch.csproj", "{AA0DCFE3-E199-4B2C-B288-F40C1DE1F1C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0310D0-0509-4B58-8D40-DD3CED8DE099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0310D0-0509-4B58-8D40-DD3CED8DE099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0310D0-0509-4B58-8D40-DD3CED8DE099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0310D0-0509-4B58-8D40-DD3CED8DE099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0DCFE3-E199-4B2C-B288-F40C1DE1F1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0DCFE3-E199-4B2C-B288-F40C1DE1F1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0DCFE3-E199-4B2C-B288-F40C1DE1F1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0DCFE3-E199-4B2C-B288-F40C1DE1F1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA83277D-113F-43E4-9E9E-5FCF3B2F8074}
+	EndGlobalSection
+EndGlobal
